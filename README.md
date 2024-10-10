@@ -1,2 +1,2 @@
 # Mighty Tiny Night [Game]
- Game based on Magic the Noah video
+	Game based on a Magic the Noah video

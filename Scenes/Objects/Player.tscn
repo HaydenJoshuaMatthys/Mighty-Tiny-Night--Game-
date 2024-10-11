@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://cdibohu507bgu"]
+
+[ext_resource type="Texture2D" uid="uid://51qca2affg6e" path="res://Assets/TempCharacter.png" id="1_f44cc"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_0kw54"]
+radius = 11.0
+
+[node name="Player" type="CharacterBody2D"]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_0kw54")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(9.53674e-07, -9.53674e-07)
+scale = Vector2(0.0839844, 0.0839844)
+texture = ExtResource("1_f44cc")

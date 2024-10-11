@@ -4,4 +4,5 @@
 
 ## But Why?
 
-	Resume project and to learn Godot. I am also using this as a project to understand Inheritance and procedural generation
+	Resume project and to learn Godot. I am also using this as a project to understand
+	Inheritance and procedural generation
